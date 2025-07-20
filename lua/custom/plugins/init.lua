@@ -3,6 +3,7 @@
 --
 --- load key remaps
 require 'remap.lua'
+require 'vim-settings.lua'
 
 -- See the kickstart.nvim README for more information
 return {}
